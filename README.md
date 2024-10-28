@@ -89,6 +89,6 @@ At this point (unit 9) The app contains the bare bones of the fitness page where
 The recipe portion of the app is yet to be done and hopefully an API call to a fitness/workout creator can be made to fill in the template I have so far. 
 
 ### Models
-[Unit 10 Update:](https://youtube.com/shorts/FtO2IphEVuk?feature=share)
+[youtube:](https://youtube.com/shorts/FtO2IphEVuk?feature=share)
 
 
